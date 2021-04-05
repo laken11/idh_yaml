@@ -6,7 +6,7 @@ farmerRegistration:
     - deviceid
     - source
     - registrationPeriod-year
-    - registratiionPeriod-quarter
+    - registrationPeriod-quarter
     - dateOfRegistration
     - nameOfFarmer-lastName
     - nameOfFarmer-firstName
@@ -37,7 +37,7 @@ farmerRegistration:
       - deviceid
       - source
       - registrationPeriod-year
-      - registratiionPeriod-quarter
+      - registrationPeriod-quarter
       - dateOfRegistration
       - nameOfFarmer-lastName
       - nameOfFarmer-firstName
