@@ -4,6 +4,7 @@ farmerRegistration:
   headers:
     - start
     - deviceid
+    - source
     - registrationPeriod-year
     - registratiionPeriod-quarter
     - dateOfRegistration
@@ -34,6 +35,7 @@ farmerRegistration:
     farmerRegistration:
       - start
       - deviceid
+      - source
       - registrationPeriod-year
       - registratiionPeriod-quarter
       - dateOfRegistration
@@ -67,6 +69,7 @@ fieldLevelAssessment:
   headers:
     - start
     - deviceid
+    - source
     - IDH_instanceId
     - farmersId
     - assessmentPeriod-year
@@ -137,10 +140,6 @@ fieldLevelAssessment:
       - contractAndAgreement-contract
       - contractAndAgreement-guaranteeMarket
       - contractAndAgreement-outputProduced
-    jobCreationField:
-      - jobCreationSection-permanentJobs
-      - jobCreationSection-seasonalJobsCreated
-      - jobCreationSection-fieldPermanentJobs
     adoptionOfTechnologyField:
       - adoptionOfTechnology-gaptraining
       - adoptionOfTechnology-postHarvestHandlingTraining
@@ -154,6 +153,7 @@ companyLevelAssessment:
   headers:
     - start
     - deviceid
+    - source
     - country
     - IDH_instanceId
     - assessmentPeriod-year
