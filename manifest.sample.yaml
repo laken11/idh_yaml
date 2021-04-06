@@ -33,8 +33,6 @@ farmerRegistration:
   baseKpi:
   kpiOutput:
     farmerRegistration:
-      - start
-      - deviceid
       - source
       - registrationPeriod-year
       - registrationPeriod-quarter
