@@ -77,9 +77,9 @@ fieldLevelAssessment:
     - financialServiceNote-financialService
     - financialServiceNote-amountOfCreditRecived
     - financialServiceNote-newFinancialService
-    - accessToFinance-inputReceived
-    - accessToFinance-typeOfInputReceived
-    - accessToFinance-firstInputReceived
+    - accesstoFinance-accessToFinance
+    - accesstoFinance-amountOfCreditRecived
+    - accesstoFinance-newAccessToFinance
     - trainingSection-goodAgronomicPractice
     - trainingSection-goodAgronomicPracticeTrainings
     - trainingSection-otherTrainings
@@ -117,9 +117,9 @@ fieldLevelAssessment:
       - financialServiceNote-newFinancialService
       - farmerType
     accessToImprovedInputField:
-      - accessToFinance-inputReceived
-      - accessToFinance-typeOfInputReceived
-      - accessToFinance-firstInputReceived
+      - accesstoFinance-accessToFinance
+      - accesstoFinance-amountOfCreditRecived
+      - accesstoFinance-newAccessToFinance
     trainingField:
       - trainingSection-goodAgronomicPractice
       - trainingSection-goodAgronomicPracticeTrainings
