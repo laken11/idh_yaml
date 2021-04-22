@@ -74,12 +74,12 @@ fieldLevelAssessment:
     - assessmentPeriod-quarter
     - farmerType
     - farmSize
-    - financialServiceNote-financialService
-    - financialServiceNote-amountOfCreditRecived
-    - financialServiceNote-newFinancialService
-    - accesstoFinance-accessToFinance
+    - accesstoFinance-financialService
     - accesstoFinance-amountOfCreditRecived
-    - accesstoFinance-newAccessToFinance
+    - accesstoFinance-newFinancialService
+    - accessToImprovedInputs-inputReceived
+    - accessToImprovedInputs-typeOfInputReceived
+    - accessToImprovedInputs-firstInputReceived
     - trainingSection-goodAgronomicPractice
     - trainingSection-goodAgronomicPracticeTrainings
     - trainingSection-otherTrainings
@@ -111,15 +111,15 @@ fieldLevelAssessment:
     - farmersId
     - produce
   kpiOutput:
-    accessToFinanceField:
-      - financialServiceNote-financialService
-      - financialServiceNote-amountOfCreditRecived
-      - financialServiceNote-newFinancialService
-      - farmerType
-    accessToImprovedInputField:
-      - accesstoFinance-accessToFinance
+    accesstoFinanceField:
+      - accesstoFinance-accesstoFinance
       - accesstoFinance-amountOfCreditRecived
       - accesstoFinance-newAccessToFinance
+      - farmerType
+    accessToImprovedInputsField:
+      - accessToImprovedInputs-inputReceived
+      - accessToImprovedInputs-typeOfInputReceived
+      - accessToImprovedInputs-firstInputReceived
     trainingField:
       - trainingSection-goodAgronomicPractice
       - trainingSection-goodAgronomicPracticeTrainings
