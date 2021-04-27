@@ -74,9 +74,9 @@ fieldLevelAssessment:
     - assessmentPeriod-quarter
     - farmerType
     - farmSize
-    - accesstoFinance-accessToFinance
+    - accesstoFinance-accesstoFinance
     - accesstoFinance-amountOfCreditRecived
-    - accesstoFinance-newFinancialService
+    - accesstoFinance-newAccessToFinance
     - accessToImprovedInputs-inputReceived
     - accessToImprovedInputs-typeOfInputReceived
     - accessToImprovedInputs-firstInputReceived
