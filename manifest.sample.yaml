@@ -74,7 +74,7 @@ fieldLevelAssessment:
     - assessmentPeriod-quarter
     - farmerType
     - farmSize
-    - accesstoFinance-accesstoFinance
+    - accesstoFinance-accessToFinance
     - accesstoFinance-amountOfCreditRecived
     - accesstoFinance-newAccessToFinance
     - accessToImprovedInputs-inputReceived
@@ -112,7 +112,7 @@ fieldLevelAssessment:
     - produce
   kpiOutput:
     accessToFinanceField:
-      - accesstoFinance-accesstoFinance
+      - accesstoFinance-accessToFinance
       - accesstoFinance-amountOfCreditRecived
       - accesstoFinance-newAccessToFinance
       - farmerType
