@@ -111,7 +111,7 @@ fieldLevelAssessment:
     - farmersId
     - produce
   kpiOutput:
-    accesstoFinanceField:
+    accessToFinanceField:
       - accesstoFinance-accesstoFinance
       - accesstoFinance-amountOfCreditRecived
       - accesstoFinance-newAccessToFinance
