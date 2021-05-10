@@ -69,6 +69,7 @@ fieldLevelAssessment:
   headers:
     - start
     - deviceid
+    - SubmissionDate
     - source
     - IDH_instanceId
     - farmersId
@@ -153,6 +154,7 @@ companyLevelAssessment:
   headers:
     - start
     - deviceid
+    - SubmissionDate
     - source
     - country
     - IDH_instanceId
