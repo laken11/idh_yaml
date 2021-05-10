@@ -4,6 +4,7 @@ farmerRegistration:
   headers:
     - start
     - deviceid
+    - SubmissionDate
     - source
     - registrationPeriod-year
     - registrationPeriod-quarter
@@ -34,6 +35,7 @@ farmerRegistration:
   kpiOutput:
     farmerRegistration:
       - source
+      - SubmissionDate
       - registrationPeriod-year
       - registrationPeriod-quarter
       - dateOfRegistration
